@@ -1,0 +1,259 @@
+﻿ip: 192.168.1.1 answer: beep
+ip: 192.168.1.1 answer: beep
+ip: 192.168.1.1 answer: adsf
+ ip: 192.168.1.1 answer: test
+2019-09-17 01:16:45 ip: 192.168.1.1 answer: test
+2019-09-17 01:16:49 ip: 192.168.1.1 answer: adsf
+2019-09-16 21:18:13 ip: 192.168.1.1 answer: hhhhhhhhhhhhh
+2019-09-16 21:19:42 ip: 104.221.88.27 answer: roocellsmells
+2019-09-16 21:20:14 ip: 104.221.88.27 answer: likedaisies!:))
+2019-09-17 19:03:20 ip: 142.117.233.25 answer: https://www.iaaecanada.org/article/team-eagle-1475.asp
+2019-09-18 12:14:38 ip: 70.82.99.180 answer: susan
+2019-09-18 12:14:56 ip: 70.82.99.180 answer: susanjanelejeuned'allegeersh
+2019-09-18 12:15:47 ip: 70.82.99.180 answer: britishhighcommission
+2019-09-18 12:22:31 ip: 70.82.99.180 answer: susanjanelejeuned'allegeersh
+2019-09-18 12:22:38 ip: 70.82.99.180 answer: macdonald
+2019-09-18 12:24:17 ip: 70.82.99.180 answer: johna.macdonald
+2019-09-18 12:24:26 ip: 70.82.99.180 answer: jam
+2019-09-18 12:24:42 ip: 70.82.99.180 answer: sirjohna.macdonald
+2019-09-18 12:25:26 ip: 70.82.99.180 answer: johnalexandermacdonald
+2019-09-18 12:25:39 ip: 70.82.99.180 answer: johnmacdonald
+2019-09-18 12:26:08 ip: 70.82.99.180 answer: macdonald
+2019-09-18 12:32:57 ip: 70.82.99.180 answer: canadaday
+2019-09-18 12:33:06 ip: 70.82.99.180 answer: canadaday
+2019-09-18 12:34:14 ip: 70.82.99.180 answer: canadianconfederation
+2019-09-18 12:38:26 ip: 70.82.99.180 answer: earnscliffe
+2019-09-18 12:45:27 ip: 70.82.99.180 answer: canadaday
+2019-09-18 20:29:18 ip: 24.114.109.133 answer: https://www.iaaecanada.org/article/team-eagle-1475.asp
+2019-09-18 23:04:09 ip: 192.168.1.1 answer: earnscliffe
+2019-09-18 23:15:52 ip: 192.168.1.1 answer: earnscliffe
+2019-09-19 11:00:19 ip: 207.253.240.4 answer: earnscliffe
+2019-09-19 11:05:57 ip: 207.253.240.4 answer: earnscliffe
+2019-09-19 17:59:39 ip: 198.24.6.220 answer: earnscliffe
+2019-09-19 18:36:37 ip: 72.143.211.37 answer: earnscliffe
+2019-09-19 19:05:43 ip: 192.168.1.1 answer: earnscliffe
+2019-09-19 20:01:41 ip: 192.168.1.1 answer: earnscliffe
+2019-09-19 20:02:09 ip: 192.168.1.1 answer: earnscliffe
+2019-09-19 20:47:26 ip: 192.168.1.1 answer: earnscliffe
+2019-09-19 22:52:12 ip: 72.143.211.37 answer: earnscliffe
+2019-09-19 23:03:44 ip: 192.168.1.1 answer: earnscliffe
+2019-09-20 21:01:20 ip: 192.168.1.1 answer: earnscliffe
+2019-09-20 21:03:11 ip: 192.168.1.1 answer: earnscliffe
+2019-09-20 21:31:51 ip: 72.139.115.142 answer: raptors
+2019-09-20 21:32:07 ip: 72.139.115.142 answer: eagle
+2019-09-20 22:18:46 ip: 45.45.108.35 answer: victoriaeagle
+2019-09-20 22:21:43 ip: 70.82.99.180 answer: earnscliffe
+2019-09-20 22:26:54 ip: 70.82.99.180 answer: earnscliffe
+2019-09-20 22:29:38 ip: 70.24.59.237 answer: sirjohnamcdonald
+2019-09-20 22:29:55 ip: 70.24.59.237 answer: johna.macsonald
+2019-09-20 22:30:33 ip: 70.24.59.237 answer: earnscliffe
+2019-09-20 22:31:04 ip: 45.45.108.35 answer: hockey
+2019-09-20 22:31:22 ip: 70.82.99.180 answer: earnscliffe
+2019-09-20 22:56:02 ip: 70.82.99.180 answer: earnscliffe
+2019-09-21 09:26:32 ip: 192.168.1.1 answer: earnscliffe
+2019-09-21 09:27:38 ip: 192.168.1.1 answer: earnscliffe
+2019-09-21 10:28:57 ip: 70.82.99.180 answer: earnscliffe
+2019-09-21 10:32:06 ip: 70.82.99.180 answer: earnscliffe
+2019-09-21 10:45:56 ip: 70.24.59.237 answer: earnacliffe
+2019-09-21 10:46:09 ip: 70.24.59.237 answer: earnscliff
+2019-09-21 10:46:19 ip: 70.24.59.237 answer: earnacliffe
+2019-09-21 10:46:48 ip: 70.24.59.237 answer: earnacliffe
+2019-09-21 10:47:30 ip: 70.24.59.237 answer: earnscliffe
+2019-09-21 10:59:43 ip: 70.82.99.180 answer: earnscliffe
+2019-09-21 11:58:32 ip: 70.27.244.246 answer: eagles
+2019-09-21 11:58:36 ip: 70.27.244.246 answer: eagle
+2019-09-21 13:17:34 ip: 184.163.104.43 answer: america
+2019-09-21 13:17:39 ip: 184.163.104.43 answer: usa
+2019-09-21 13:17:43 ip: 184.163.104.43 answer: eagle
+2019-09-21 13:17:48 ip: 184.163.104.43 answer: baldeagle
+2019-09-21 22:17:32 ip: 192.168.1.1 answer: earnscliffe
+2019-09-21 22:17:38 ip: 70.82.99.180 answer: earnscliffe
+2019-09-21 22:29:29 ip: 76.65.87.30 answer: eagle
+2019-09-21 22:30:09 ip: 76.65.87.30 answer: capbreton
+2019-09-21 22:30:21 ip: 76.65.87.30 answer: screamingeagles
+2019-09-21 22:30:51 ip: 76.65.87.30 answer: whitehouse
+2019-09-21 22:32:06 ip: 76.65.87.30 answer: screamingeagles
+2019-09-21 22:32:26 ip: 76.65.87.30 answer: screamingeagles
+2019-09-21 22:33:30 ip: 76.65.87.30 answer: mississaugaeagles
+2019-09-21 22:37:05 ip: 76.65.87.30 answer: halifax
+2019-09-21 22:38:05 ip: 76.65.87.30 answer: alouettes
+2019-09-21 22:39:28 ip: 76.65.87.30 answer: torontoeagles
+2019-09-21 23:15:36 ip: 192.168.1.1 answer: earnscliffe
+2019-09-21 23:21:14 ip: 192.168.1.1 answer: earnscliffe
+2019-09-22 00:10:26 ip: 50.100.164.177 answer: eagle
+2019-09-22 00:11:51 ip: 50.100.164.177 answer: baldeagle
+2019-09-22 00:12:12 ip: 50.100.164.177 answer: parlement
+2019-09-22 00:12:17 ip: 50.100.164.177 answer: parlement
+2019-09-22 07:59:55 ip: 64.231.92.21 answer: eaglesnestlookout
+2019-09-22 09:08:58 ip: 24.114.110.153 answer: blueeagle
+2019-09-22 10:19:17 ip: 24.114.110.66 answer: carletonravens
+2019-09-22 10:19:37 ip: 24.114.110.66 answer: carletonravens
+2019-09-22 21:24:19 ip: 173.176.153.159 answer: eagles
+2019-09-22 21:24:31 ip: 173.176.153.159 answer: .
+2019-09-23 10:32:36 ip: 199.212.18.130 answer: canadianwarmemorial
+2019-09-23 10:36:19 ip: 199.212.18.130 answer: billingsestate
+2019-09-23 10:38:33 ip: 199.212.18.130 answer: warof1812
+2019-09-23 10:44:47 ip: 199.212.18.130 answer: maison140
+2019-09-23 10:47:41 ip: 199.212.18.130 answer: 150elginstreet
+2019-09-23 10:48:37 ip: 199.212.18.130 answer: doctorjamesalexandergrant
+2019-09-23 10:48:49 ip: 199.212.18.130 answer: jamesalexandergrant
+2019-09-23 10:51:47 ip: 199.212.18.130 answer: eagle’snest
+2019-09-23 10:53:37 ip: 199.212.18.130 answer: eaglesnest
+2019-09-23 10:53:48 ip: 199.212.18.130 answer: eagle'snestlookout
+2019-09-23 10:53:57 ip: 199.212.18.130 answer: eaglesnestlookout
+2019-09-23 12:46:39 ip: 65.94.31.63 answer: gatineaupark
+2019-09-23 12:46:47 ip: 65.94.31.63 answer: pioneertrail
+2019-09-23 12:48:04 ip: 65.94.31.63 answer: eaglesnest
+2019-09-23 12:48:12 ip: 65.94.31.63 answer: theeaglesnest
+2019-09-23 12:48:20 ip: 65.94.31.63 answer: cummingsisland
+2019-09-23 13:28:43 ip: 24.70.133.13 answer: senators
+2019-09-23 13:31:06 ip: 24.70.133.13 answer: johnamcdonald
+2019-09-23 13:31:16 ip: 24.70.133.13 answer: eaglerock
+2019-09-23 13:54:25 ip: 199.212.18.130 answer: eaglesnest
+2019-09-23 15:17:00 ip: 199.212.18.130 answer: eaglesnest
+2019-09-23 16:22:28 ip: 142.169.27.132 answer: earnscliffe
+2019-09-23 16:38:01 ip: 204.187.66.171 answer: pelicans
+2019-09-23 16:38:17 ip: 204.187.66.171 answer: eagle
+2019-09-23 16:38:34 ip: 204.187.66.171 answer: canada
+2019-09-24 10:48:01 ip: 199.212.18.130 answer: earnscliffe
+2019-09-24 15:57:37 ip: 70.27.215.8 answer: outcrop
+2019-09-24 15:58:09 ip: 70.27.215.8 answer: eagle
+2019-09-24 15:58:18 ip: 70.27.215.8 answer: eaglerock
+2019-09-24 15:58:41 ip: 70.27.215.8 answer: daddycool
+2019-09-24 15:58:46 ip: 70.27.215.8 answer: daddycool
+2019-09-24 15:59:00 ip: 70.27.215.8 answer: baldeagle
+2019-09-24 15:59:05 ip: 70.27.215.8 answer: baldeagle
+2019-09-24 16:03:46 ip: 70.27.215.8 answer: photo
+2019-09-24 16:07:28 ip: 70.27.215.8 answer: haliaeetusleucocephalu
+2019-09-24 16:07:38 ip: 70.27.215.8 answer: colorado
+2019-09-24 16:30:23 ip: 70.27.215.8 answer: mikehill
+2019-09-24 16:30:30 ip: 70.27.215.8 answer: leucocephalu
+2019-09-24 16:31:12 ip: 70.27.215.8 answer: baldeagle
+2019-09-24 16:31:51 ip: 70.27.215.8 answer: ontario
+2019-09-24 17:11:32 ip: 70.27.215.8 answer: macdonald
+2019-09-24 21:37:51 ip: 108.168.126.196 answer: earnsecliffe
+2019-09-24 21:38:09 ip: 108.168.126.196 answer: earnscliffe
+2019-09-25 21:43:04 ip: 173.179.111.93 answer: eagle
+2019-09-25 21:45:49 ip: 173.179.111.93 answer: theeagles
+2019-09-25 21:48:04 ip: 173.179.111.93 answer: mississaugaeagles
+2019-09-25 21:52:10 ip: 173.179.111.93 answer: teameagle
+2019-09-25 22:02:46 ip: 173.179.111.93 answer: boldeagles
+2019-09-25 22:58:44 ip: 70.30.212.222 answer: eagle
+2019-09-25 22:59:42 ip: 70.30.212.222 answer: pygargue
+2019-09-25 23:00:06 ip: 70.30.212.222 answer: haliaeetusleucocephalus
+2019-09-25 23:00:24 ip: 70.30.212.222 answer: baldeagle
+2019-09-25 23:01:08 ip: 70.30.212.222 answer: haliaeetus
+2019-09-25 23:01:25 ip: 70.30.212.222 answer: eagle
+2019-09-25 23:02:52 ip: 70.30.212.222 answer: power
+2019-09-25 23:07:35 ip: 70.30.212.222 answer: americaneagle
+2019-09-25 23:07:46 ip: 173.179.111.93 answer: eaglepass
+2019-09-25 23:10:00 ip: 173.179.111.93 answer: swifteagle
+2019-09-25 23:22:58 ip: 173.179.111.93 answer: creepy
+2019-09-25 23:23:06 ip: 173.179.111.93 answer: chateau
+2019-09-25 23:23:15 ip: 173.179.111.93 answer: laurier
+2019-09-25 23:23:39 ip: 173.179.111.93 answer: mill
+2019-09-25 23:23:55 ip: 173.179.111.93 answer: watson
+2019-09-25 23:24:20 ip: 173.179.111.93 answer: manotick
+2019-09-25 23:26:11 ip: 173.179.111.93 answer: gothic
+2019-09-25 23:27:15 ip: 173.179.111.93 answer: earnscliffe
+2019-09-26 00:20:19 ip: 74.58.168.182 answer: 110house
+2019-09-26 00:22:28 ip: 74.58.168.182 answer: macdonald
+2019-09-26 00:22:46 ip: 74.58.168.182 answer: johna.macdonald.
+2019-09-26 00:23:59 ip: 74.58.168.182 answer: rachelcliff
+2019-09-26 00:24:44 ip: 74.58.168.182 answer: earnscliffe
+2019-09-26 08:53:34 ip: 67.210.169.18 answer: eagle
+2019-09-26 08:54:08 ip: 67.210.169.18 answer: usa
+2019-09-26 08:54:34 ip: 67.210.169.18 answer: whitehouse
+2019-09-26 08:55:26 ip: 67.210.169.18 answer: eyrie
+2019-09-26 11:51:07 ip: 67.210.169.18 answer: earnscliffe
+2019-09-26 12:02:02 ip: 67.210.169.18 answer: earnscliffe
+2019-09-26 14:05:24 ip: 67.210.169.18 answer: earnscliffe
+2019-09-26 19:08:06 ip: 142.182.80.139 answer: eaglemountain
+2019-09-26 19:09:48 ip: 142.182.80.139 answer: eaglecliff
+2019-09-26 19:09:55 ip: 142.182.80.139 answer: cliffeagle
+2019-09-26 19:16:24 ip: 174.114.120.153 answer: america
+2019-09-26 19:21:44 ip: 174.114.120.153 answer: frontier
+2019-09-26 19:22:00 ip: 174.114.120.153 answer: johna.macdonald
+2019-09-26 19:25:44 ip: 174.114.120.153 answer: williamlyonmackenzieking
+2019-09-26 19:26:04 ip: 174.114.120.153 answer: mackenziekingestate
+2019-09-26 19:26:26 ip: 174.114.120.153 answer: minassian
+2019-09-26 19:26:38 ip: 174.114.120.153 answer: king
+2019-09-26 19:28:14 ip: 174.114.120.153 answer: earnscliffe
+2019-09-27 19:38:46 ip: 142.116.71.52 answer: eaglerock
+2019-09-27 19:39:40 ip: 142.116.71.52 answer: stitsville
+2019-09-27 19:41:00 ip: 142.116.71.52 answer: softball
+2019-09-27 19:45:01 ip: 142.116.71.52 answer: calabogie
+2019-09-27 19:52:03 ip: 142.116.71.52 answer: johnamacdonald
+2019-09-27 22:03:34 ip: 174.112.171.117 answer: sirjohnamacdonald
+2019-09-27 22:04:07 ip: 174.112.171.117 answer: johna.macdonald
+2019-09-27 22:05:03 ip: 174.112.171.117 answer: macdonald
+2019-09-27 22:05:11 ip: 174.112.171.117 answer: mcdonald
+2019-09-27 22:05:47 ip: 174.112.171.117 answer: john
+2019-09-27 23:42:06 ip: 174.112.171.117 answer: 24sussex
+2019-09-27 23:42:53 ip: 174.112.171.117 answer: primeminister
+2019-09-27 23:43:11 ip: 174.112.171.117 answer: thisisdumb
+2019-09-29 20:52:50 ip: 174.115.127.223 answer: eagle
+2019-09-29 20:53:01 ip: 174.115.127.223 answer: loon
+2019-09-29 20:53:17 ip: 174.115.127.223 answer: dove
+2019-09-29 21:21:17 ip: 174.115.127.223 answer: johnamacdonald
+2019-09-29 21:21:22 ip: 174.115.127.223 answer: eaglescliff
+2019-09-29 21:21:32 ip: 174.115.127.223 answer: earnscliff
+2019-09-29 21:21:38 ip: 174.115.127.223 answer: earnscliffe
+2019-09-29 21:22:05 ip: 174.115.127.223 answer: earnscliffe
+2019-09-29 21:22:12 ip: 174.115.127.223 answer: earnscliffe
+2019-09-29 21:22:17 ip: 174.115.127.223 answer: earnscliffe
+2019-09-29 21:30:42 ip: 174.115.127.223 answer: earnscliffe
+2019-10-01 21:23:27 ip: 24.201.45.132user: Dooki answer: clachantiompain
+2019-10-01 21:23:39 ip: 24.201.45.132user: Dooki answer: aetites
+2019-10-01 21:24:27 ip: 24.201.45.132user: Dooki answer: mississauga
+2019-10-01 21:25:21 ip: 24.201.45.132user: Dooki answer: screamingeagles
+2019-10-01 21:33:29 ip: 24.201.45.132user: Dooki answer: victoria
+2019-10-01 21:33:53 ip: 24.201.45.132user: Dooki answer: victoriaeaglesbaseballub
+2019-10-01 21:34:04 ip: 24.201.45.132user: Dooki answer: victoriaeaglesbaseballclub
+2019-10-01 21:36:50 ip: 24.201.45.132user: Dooki answer: earnscliffe
+2019-10-01 21:46:03 ip: 142.169.78.197user: ImpRidahz answer: rockliff
+2019-10-01 21:47:23 ip: 142.169.78.197user: ImpRidahz answer: dollar
+2019-10-01 21:52:58 ip: 142.169.78.197user: ImpRidahz answer: gladstone
+2019-10-01 22:00:10 ip: 142.169.78.197user: ImpRidahz answer: johna.macdonald
+2019-10-01 22:02:38 ip: 142.169.78.197user: ImpRidahz answer: gladstone
+2019-10-01 22:02:46 ip: 142.169.78.197user: ImpRidahz answer: jamesgladstone
+2019-10-01 22:11:24 ip: 142.169.78.197user: ImpRidahz answer: knightthiessen
+2019-10-01 23:26:44 ip: 142.169.78.197user: ImpRidahz answer: earnscliffe
+2019-10-01 23:29:17 ip: 142.169.78.197user: ImpRidahz answer: earnscliffe
+2019-10-02 14:31:26 ip: 205.236.15.2user: NorthernRyan94 answer: eagle
+2019-10-02 14:31:38 ip: 205.236.15.2user: NorthernRyan94 answer: eaglerock
+2019-10-02 14:32:32 ip: 205.236.15.2user: NorthernRyan94 answer: earlybird
+2019-10-02 14:32:40 ip: 205.236.15.2user: NorthernRyan94 answer: takeiteasy
+2019-10-02 14:34:02 ip: 205.236.15.2user: NorthernRyan94 answer: toronto
+2019-10-02 14:34:13 ip: 205.236.15.2user: NorthernRyan94 answer: football
+2019-10-02 14:34:32 ip: 205.236.15.2user: NorthernRyan94 answer: loonie
+2019-10-02 14:36:06 ip: 205.236.15.2user: NorthernRyan94 answer: rushmore
+2019-10-02 14:38:15 ip: 205.236.15.2user: NorthernRyan94 answer: buckhill
+2019-10-02 14:38:21 ip: 205.236.15.2user: NorthernRyan94 answer: buckhill
+2019-10-02 14:39:56 ip: 205.236.15.2user: NorthernRyan94 answer: 144wellingtonst
+2019-10-02 14:40:15 ip: 205.236.15.2user: NorthernRyan94 answer: macdonald
+2019-10-02 14:40:29 ip: 205.236.15.2user: NorthernRyan94 answer: johnamacdonald
+2019-10-02 14:40:39 ip: 205.236.15.2user: NorthernRyan94 answer: sirjohnamacdonald
+2019-10-02 14:40:43 ip: 205.236.15.2user: NorthernRyan94 answer: 144
+2019-10-02 14:41:50 ip: 205.236.15.2user: NorthernRyan94 answer: earnscliffe
+2019-10-06 20:30:18 ip: 74.15.118.40user: Rom answer: america
+2019-10-06 20:30:26 ip: 74.15.118.40user: Rom answer: usa
+2019-10-06 20:32:16 ip: 74.15.118.40user: Rom answer: yamnuska
+2019-10-06 20:34:00 ip: 74.15.118.40user: Rom answer: torontoeagles
+2019-10-06 20:34:19 ip: 74.15.118.40user: Rom answer: eagles
+2019-10-06 20:34:42 ip: 74.15.118.40user: Rom answer: tornto
+2019-10-06 20:34:49 ip: 74.15.118.40user: Rom answer: toronto
+2019-10-06 20:35:04 ip: 74.15.118.40user: Rom answer: football
+2019-10-06 20:35:23 ip: 74.15.118.40user: Rom answer: rugby
+2019-10-06 20:35:40 ip: 74.15.118.40user: Rom answer: serbianwhiteeagles
+2019-10-06 20:36:01 ip: 74.15.118.40user: Rom answer: philadelphiaeagles
+2019-10-06 20:36:12 ip: 74.15.118.40user: Rom answer: afc
+2019-10-06 20:36:36 ip: 74.15.118.40user: Rom answer: torontoeagles
+2019-10-06 20:36:55 ip: 74.15.118.40user: Rom answer: torontoeaglesafc
+2019-10-06 20:37:19 ip: 74.15.118.40user: Rom answer: supereagles
+2019-10-06 20:39:04 ip: 74.15.118.40user: Rom answer: earnscliffe
+2019-10-07 09:57:52 ip: 142.137.180.51user: Maxym answer: eagle
+2019-10-07 09:58:31 ip: 142.137.180.51user: Maxym answer: alberta
+2019-10-08 12:19:15 ip: 104.221.43.200user: DinoBravo answer: torontoeagles
+2019-10-08 12:19:26 ip: 104.221.43.200user: DinoBravo answer: torontoeagles
+2019-10-10 22:12:05 ip: 174.112.145.232user: Leopold_stotch answer: eaglerock

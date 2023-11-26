@@ -1,0 +1,93 @@
+2019-09-21 23:48:02 ip: 192.168.1.1 answer: pepee
+2019-09-22 08:38:50 ip: 192.168.1.1 answer: 401
+2019-09-22 21:22:50 ip: 70.24.59.237 answer: commissariat
+2019-09-22 21:23:10 ip: 70.24.59.237 answer: bytownmuseum
+2019-09-22 21:23:18 ip: 70.24.59.237 answer: thecommissariat
+2019-09-22 21:28:44 ip: 70.24.59.237 answer: confederation
+2019-09-23 16:45:34 ip: 70.24.59.237 answer: bytown
+2019-09-23 16:45:43 ip: 70.24.59.237 answer: bytownmuseum
+2019-09-23 16:46:27 ip: 70.24.59.237 answer: commissariat
+2019-09-23 16:46:39 ip: 70.24.59.237 answer: commissariatbuilding
+2019-09-23 17:24:47 ip: 70.24.59.237 answer: ottawa
+2019-09-23 21:16:05 ip: 70.24.59.237 answer: canal
+2019-09-23 21:16:13 ip: 70.24.59.237 answer: rideaucanal
+2019-09-23 21:16:43 ip: 70.24.59.237 answer: rideau
+2019-09-23 21:23:57 ip: 70.24.59.237 answer: british
+2019-09-23 21:24:06 ip: 70.24.59.237 answer: britishempire
+2019-09-23 21:24:23 ip: 70.24.59.237 answer: unitesstates
+2019-09-23 21:29:23 ip: 70.24.59.237 answer: unitedstatesofamerica
+2019-09-23 21:29:33 ip: 70.24.59.237 answer: america
+2019-09-23 21:30:36 ip: 70.24.59.237 answer: theunitedstates
+2019-09-23 21:30:43 ip: 70.24.59.237 answer: thestates
+2019-09-23 21:30:53 ip: 70.24.59.237 answer: unitedstates
+2019-09-23 21:31:14 ip: 70.24.59.237 answer: theunitedstatesofamerica
+2019-09-23 21:33:46 ip: 70.24.59.237 answer: fenians
+2019-09-23 21:33:56 ip: 70.24.59.237 answer: theu.s.
+2019-09-23 21:34:03 ip: 70.24.59.237 answer: theu.s.a.
+2019-09-23 21:34:13 ip: 70.24.59.237 answer: theu.s.ofa
+2019-09-23 21:34:41 ip: 70.24.59.237 answer: therideaucanal
+2019-09-23 21:36:43 ip: 70.24.59.237 answer: warof1812
+2019-09-23 21:41:28 ip: 70.24.59.237 answer: malaria
+2019-09-23 21:50:29 ip: 70.24.59.237 answer: greatbritain
+2019-09-23 22:09:53 ip: 70.24.59.237 answer: 1canal
+2019-09-23 22:10:17 ip: 70.24.59.237 answer: 1canallane
+2019-09-24 09:36:06 ip: 70.24.59.237 answer: 1canallane
+2019-09-24 18:20:53 ip: 70.24.59.237 answer: patrick
+2019-09-24 18:20:57 ip: 70.24.59.237 answer: whelan
+2019-09-24 18:21:03 ip: 70.24.59.237 answer: patrickwhelan
+2019-09-24 18:21:11 ip: 70.24.59.237 answer: assasin
+2019-09-24 19:06:23 ip: 70.24.59.237 answer: assasin
+2019-09-24 20:08:20 ip: 70.24.59.237 answer: 268136
+2019-09-24 20:09:32 ip: 70.24.59.237 answer: 268138
+2019-09-24 20:10:10 ip: 70.24.59.237 answer: 62
+2019-09-24 21:02:10 ip: 70.24.59.237 answer: 62
+2019-09-24 21:02:32 ip: 70.24.59.237 answer: 62sparksstreet
+2019-09-24 21:02:46 ip: 70.24.59.237 answer: d’arcymcgee’s
+2019-09-25 10:46:58 ip: 142.169.27.185 answer: bytownmuseum
+2019-09-25 10:47:06 ip: 142.169.27.185 answer: bytown
+2019-09-25 10:58:22 ip: 142.169.27.185 answer: addote
+2019-09-25 14:15:52 ip: 72.143.208.80 answer: bytownmuseum
+2019-09-25 14:17:04 ip: 72.143.208.80 answer: bytown
+2019-09-25 14:23:51 ip: 72.143.208.80 answer: duncan
+2019-09-25 14:24:00 ip: 72.143.213.37 answer: duncanmcnab
+2019-09-25 14:25:15 ip: 72.143.208.80 answer: mcnab
+2019-09-25 19:30:30 ip: 70.82.99.180 answer: deathhand
+2019-09-25 19:45:40 ip: 70.24.59.237 answer: 62sparksstreet
+2019-09-25 20:09:18 ip: 70.24.59.237 answer: 62
+2019-09-25 20:09:26 ip: 70.24.59.237 answer: 268138
+2019-09-25 20:19:48 ip: 70.24.59.237 answer: 325
+2019-09-25 20:24:32 ip: 70.24.59.237 answer: 400
+2019-09-25 20:24:38 ip: 70.24.59.237 answer: 76
+2019-09-25 20:27:27 ip: 70.24.59.237 answer: 401
+2019-09-25 22:02:03 ip: 70.82.99.180 answer: deathhand
+2019-09-25 22:14:26 ip: 70.82.99.180 answer: deathhand
+2019-09-26 10:17:14 ip: 74.58.168.182 answer: bytown
+2019-09-26 10:25:31 ip: 74.58.168.182 answer: fingers
+2019-09-26 10:30:11 ip: 74.58.168.182 answer: bytownmuseum
+2019-09-26 10:30:33 ip: 74.58.168.182 answer: bytownmuseum
+2019-09-26 10:50:29 ip: 74.58.168.182 answer: oceanlimited
+2019-09-26 11:52:24 ip: 74.58.168.182 answer: fear55555canadadominiondangernor
+2019-09-26 12:37:37 ip: 74.58.168.182 answer: legermain
+2019-09-26 12:37:44 ip: 74.58.168.182 answer: germain
+2019-09-26 12:37:48 ip: 74.58.168.182 answer: germainhotel
+2019-09-26 15:14:32 ip: 74.58.168.182 answer: highwayofheroes
+2019-09-26 15:15:02 ip: 74.58.168.182 answer: thefourohone
+2019-09-27 00:23:23 ip: 74.58.168.182 answer: bytown137
+2019-09-27 00:23:44 ip: 74.58.168.182 answer: bytown1990
+2019-09-27 00:25:51 ip: 74.58.168.182 answer: bytownhighway
+2019-09-27 14:01:50 ip: 74.58.168.182 answer: fenian
+2019-09-27 14:04:35 ip: 74.58.168.182 answer: plasterhand
+2019-10-04 01:20:56 ip: 74.58.168.182user: pjd answer: bytown137
+2019-10-04 01:20:58 ip: 74.58.168.182user: pjd answer: bytown137
+2019-10-04 01:21:19 ip: 74.58.168.182user: pjd answer: bytownking
+2019-10-04 01:21:24 ip: 74.58.168.182user: pjd answer: bytownhighway
+2019-10-04 01:22:50 ip: 74.58.168.182user: pjd answer: highway137
+2019-10-04 01:23:20 ip: 74.58.168.182user: pjd answer: ontario
+2019-10-04 01:23:27 ip: 74.58.168.182user: pjd answer: bytownontario
+2019-10-04 01:25:39 ip: 74.58.168.182user: pjd answer: bytowntranscanadian
+2019-10-04 01:29:58 ip: 74.58.168.182user: pjd answer: kingshighway
+2019-10-04 01:30:04 ip: 74.58.168.182user: pjd answer: kingsbytown
+2019-10-04 01:34:30 ip: 74.58.168.182user: pjd answer: bytown401
+2019-10-04 01:36:33 ip: 74.58.168.182user: pjd answer: bytown4521
+2019-10-04 01:39:49 ip: 74.58.168.182user: pjd answer: bytownleeds
+2019-10-04 01:42:59 ip: 74.58.168.182user: pjd answer: bytownmacdonald
